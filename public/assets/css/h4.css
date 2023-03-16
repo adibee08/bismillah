@@ -1,0 +1,25 @@
+h4 {
+    text-align: center;
+    color: aliceblue;
+}
+
+.row{
+    text-align: center;
+}
+
+.card{
+    margin-left: 300px;
+    background :transparent;
+    color: antiquewhite;
+    width: 500px;
+    border-color: antiquewhite;
+}
+
+text {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    color: antiquewhite;
+}
